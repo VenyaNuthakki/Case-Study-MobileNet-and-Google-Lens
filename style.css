@@ -1,0 +1,38 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+}
+
+h2{
+    color: hotpink;
+}
+
+#result{
+    background-color: black;
+    font-size: 25px;
+}
+
+#Book{
+    color: deepskyblue;
+    box-shadow: 5px 5px 5px darkgrey;
+}
+
+#Glass{
+    color: deepskyblue;
+    box-shadow: 5px 5px 5px darkgrey;
+}
+
+#Pencil{
+    color: deepskyblue;
+    box-shadow: 5px 5px 5px darkgrey;
+}
+
+#Plate{
+    color: deepskyblue;
+    box-shadow: 5px 5px 5px darkgrey;
+}
+
+#Water_Bottle{
+    color: deepskyblue;
+    box-shadow: 5px 5px 5px darkgrey;
+}
